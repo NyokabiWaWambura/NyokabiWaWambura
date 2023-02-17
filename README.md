@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NyokabiWaWambura
-- 👀 I’m interested in Coding!
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Coding, Cyber security and everything IT.
+- 🌱 I’m currently learning Javascript and C.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me wambmayr@gmail.com
 
